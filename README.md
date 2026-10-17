@@ -68,3 +68,7 @@ pytest tests/ -q
 
 - Sessions are held in memory, so they reset when the server restarts.
 - Built as part of Module 2 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
